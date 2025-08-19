@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @White-GH05T
+- 👋 Hi, I’m @White-GH05T / Abdul Rahman
 - 👀 I’m interested in Game developing, designing, Web/App developing 
 - 💞️ I’m looking to collaborate on developers
 - 📫 Mail me @ myselfabdul004@gmail.com
