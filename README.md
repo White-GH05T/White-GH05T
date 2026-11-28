@@ -5,53 +5,71 @@ Glass visuals live in /assets (SVG). Edit them there.
 
 <div align="center">
 
-<a href="https://www.abdrahman.in"><img src="assets/hero.svg" width="100%" alt="Abdul Rahman — Full Stack Developer, Dubai" /></a>
+<img src="assets/hero.svg" width="100%" alt="Abdul Rahman — Full Stack Developer, Dubai" />
 
-<a href="https://www.abdrahman.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=800&color=93C5FD&center=true&vCenter=true&repeat=true&width=760&lines=Designing+%26+shipping+polished+digital+products;React+%C2%B7+Angular+%C2%B7+Flutter+%C2%B7+Laravel+%C2%B7+NestJS;AI-augmented+workflow%2C+engineering+rigor" alt="Typing intro" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=800&color=93C5FD&center=true&vCenter=true&repeat=true&width=760&lines=AI+Full+Stack+Developer+%40+Digital+Point+Tech;Building+AI-powered+hiring+%26+career+platforms;React+%C2%B7+Angular+%C2%B7+Flutter+%C2%B7+Laravel+%C2%B7+NestJS;AI-augmented+workflow%2C+engineering+rigor" alt="Typing intro" />
 
 <a href="https://www.abdrahman.in"><img src="https://img.shields.io/badge/Portfolio-abdrahman.in-ffffff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=6366f1&color=1e1b4b" /></a>
 <a href="https://www.linkedin.com/in/abdul-rahman-fullstack-developer"><img src="https://img.shields.io/badge/LinkedIn-Connect-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
 <a href="mailto:myselfabdul004@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-1e1b4b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0284c7" /></a>
 <img src="https://komarev.com/ghpvc/?username=White-GH05T&style=for-the-badge&color=1e1b4b&label=PROFILE+VIEWS&labelColor=4338ca" />
 
-<img src="assets/stats.svg" width="100%" alt="6+ years · 20+ products · 14 live projects · 4 companies · AR/VR" />
+<img src="assets/stats.svg" width="100%" alt="6+ years · 20+ products · 23 live projects · 5 companies · AR/VR" />
 
 <img src="assets/h-about.svg" width="100%" alt="About Me" />
 <img src="assets/about.svg" width="100%" alt="About me and quick facts" />
 
 <img src="assets/h-work.svg" width="100%" alt="Featured Work" />
 
-<a href="https://www.housekeepingco.com/"><img src="assets/p-housekeepingco.svg" width="49%" alt="HousekeepingCo" /></a>
-<a href="https://www.talentmate.com/"><img src="assets/p-talentmate.svg" width="49%" alt="Talentmate" /></a>
-<a href="https://whatsappdev.housekeepingco.com/"><img src="assets/p-metaconnect.svg" width="49%" alt="WhatsApp MetaConnect" /></a>
-<a href="https://www.caresoftglobal.com/cornea/"><img src="assets/p-cornea.svg" width="49%" alt="Cornea" /></a>
+<img src="assets/p-joboxy.svg" width="49%" alt="Joboxy" />
+<img src="assets/p-makethecv.svg" width="49%" alt="MakeTheCV" />
+<img src="assets/p-onetalent.svg" width="49%" alt="OneTalent.ai" />
+<img src="assets/p-sendthecv.svg" width="49%" alt="SendTheCV" />
+<img src="assets/p-tadbeer.svg" width="49%" alt="Tadbeer" />
+<img src="assets/p-uaedrivers.svg" width="49%" alt="UAEDrivers" />
+<img src="assets/p-housekeepingco.svg" width="49%" alt="HousekeepingCo" />
+<img src="assets/p-cornea.svg" width="49%" alt="Cornea" />
 
 </div>
 
 <details>
-<summary><b>🗂️ View all 14 projects</b> · <i>Laravel, Django, React, Angular, Flutter & Next.js</i></summary>
+<summary><b>🗂️ Project history: all 23 projects</b> · <i>click to expand</i></summary>
 <br/>
+
+#### 🟢 Digital Point Tech Consultancy, Sharjah · 2026 – Present
+
+| Project | Type | What it does |
+|---|---|---|
+| [Joboxy](https://joboxy.com/) | AI agent | Reads your CV, scans 800K+ career pages nightly and ranks verified matching jobs |
+| [MakeTheCV](https://www.makethecv.com/) | AI CV builder | 65+ ATS-friendly templates, job-tailored CVs, match scores, AI cover letters, ATS checker |
+| [OneTalent.ai](https://onetalent.ai/) | Direct-hire platform | Verified candidates, in-app interviews, offers, UAE contracts and WPS payroll |
+| [SendTheCV](https://sendthecv.com/) | CV distribution | Sends CVs to 35,000+ verified UAE recruiters from the user's own inbox |
+| [Tadbeer](https://www.tadbeer.co/) | Marketplace | Hire verified nannies, maids, cooks and drivers directly, no agency fees |
+| [UAEDrivers](https://www.uaedrivers.com/) | Marketplace | Driver hiring for families, companies and fleets, plus driver job listings |
+| [MaidFinder](https://www.maidfinder.net/) | Marketplace | Find maids, nannies and caregivers with Smart Match suggestions and WhatsApp contact |
+| [ChooseNanny](https://www.choosenanny.com/) | Marketplace | Verified nannies, babysitters and housekeepers with direct messaging and visa support |
+| [HireNanny](https://www.hirenanny.net/) | Marketplace | Agency-free hiring of maids, nannies and babysitters in Dubai |
+| [My Poppin](https://www.mypoppin.com/) | Marketplace | Families connect with verified domestic workers across the UAE |
+
+#### 🔵 Earlier work · 2016 – 2025
 
 | Project | Stack | What it does |
 |---|---|---|
 | [HousekeepingCo](https://www.housekeepingco.com/) | Laravel · Flutter | Live-in maid & nanny hiring with visa sponsorship |
+| [WhatsApp MetaConnect](https://whatsappdev.housekeepingco.com/) | React | Business WhatsApp messaging dashboard |
 | [Talentmate](https://www.talentmate.com/) | Laravel | UAE job portal: CVs, applications, employers |
-| [My Poppin](https://www.mypoppin.com/) | Laravel | Connects families with verified caregivers |
 | [Domesticworker](https://www.domesticworker.ae/) | Laravel | MoHRE-approved recruitment & visa processing |
 | [Acoup](https://www.acoup.com/) | Laravel | Licensed BPO & ethical recruitment platform |
 | [Acoup Callcenter](https://assist.acouptraining.com/) | Django | Call tracking & customer support platform |
 | [Acoup CEFR](https://cefr.acouptraining.com/) | Django | Online English test with CEFR certification in 2 hours |
 | Acoup LMS | Flutter | Learning platform for Acoup courses |
-| [WhatsApp MetaConnect](https://whatsappdev.housekeepingco.com/) | React | Business WhatsApp messaging dashboard |
 | [FYNTH](https://www.fynth.com/) | React | Employee promotions & increments management |
+| [Veztyle Fashion](https://www.veztyle.com/) | Next.js | Custom T-shirt e-commerce store |
 | [Caresoft](https://www.caresoftglobal.com/) | Angular | Engineering insights & cost-reduction tools |
 | [Iceberg](https://www.caresoftglobal.com/iceberg/) | Angular | Enterprise vehicle benchmarking platform |
 | [Cornea](https://www.caresoftglobal.com/cornea/) | Angular | 360° VR vehicle inspection |
-| [Veztyle Fashion](https://www.veztyle.com/) | Next.js | Custom T-shirt e-commerce store |
 
-<p align="right"><a href="https://www.abdrahman.in/projects">See them on my portfolio ↗</a></p>
+<p align="right"><a href="https://www.abdrahman.in/projects">More on my portfolio ↗</a></p>
 
 </details>
 
@@ -66,7 +84,10 @@ Glass visuals live in /assets (SVG). Edit them there.
 <summary><b>💼 Full experience details</b> · <i>click to expand</i></summary>
 <br/>
 
-**Frontend Developer** · Housekeeping Co, Dubai &nbsp;<sub>Nov 2021 – Present</sub>
+**AI Full Stack Developer** · Digital Point Tech Consultancy L.L.C S.P, Sharjah &nbsp;<sub>Feb 2026 – Present</sub>
+<br/>Building AI-powered hiring and career platforms for the UAE: an AI job-matching agent (Joboxy), AI CV tailoring and ATS scoring (MakeTheCV), a direct-hire platform with payroll (OneTalent.ai), recruiter outreach automation (SendTheCV) and six domestic-hiring marketplaces. <sub>`AI Agents` `LLM Integration` `Full Stack` `Marketplaces`</sub>
+
+**Frontend Developer** · Housekeeping Co, Dubai &nbsp;<sub>Nov 2021 – Jan 2026</sub>
 <br/>Designing and building responsive web and mobile apps with cross-functional teams. <sub>`React` `Flutter` `NestJS` `REST APIs` `UI/UX`</sub>
 
 **Web Developer** · Telecomatics, Coimbatore &nbsp;<sub>Jan 2021 – Sep 2021</sub>
@@ -135,6 +156,6 @@ Glass visuals live in /assets (SVG). Edit them there.
 <a href="https://profile.indeed.com/p/abdulrahmanm-cf06vk0"><img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" /></a>
 <a href="https://www.instagram.com/whit3_gh0st"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-<a href="https://www.abdrahman.in/contact"><img src="assets/footer.svg" width="100%" alt="Let's build the next version properly." /></a>
+<img src="assets/footer.svg" width="100%" alt="Let's build the next version properly." />
 
 </div>
